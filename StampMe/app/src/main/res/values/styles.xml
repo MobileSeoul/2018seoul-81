@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/color_app_theme</item>
+        <item name="colorPrimaryDark">@color/color_app_theme</item>
+        <item name="colorAccent">@color/color_text</item>
+        <item name="android:statusBarColor">@color/color_status_bar</item>
+    </style>
+
+    <style name="Splash" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+    <style name="SelectDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>

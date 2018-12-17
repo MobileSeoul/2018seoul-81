@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">StampMe</string>
+
+    <!-- Toolbar -->
+    <string name="string_title_create_account">Create Account</string>
+    <string name="string_title_set_up_profile">Set up Profile</string>
+    <string name="string_title_nearby_shops">Nearby Shops</string>
+    <string name="string_title_my_store">My Store</string>
+    <string name="string_title_my_stamps">My Stamps</string>
+    <string name="string_title_my_settings">Settings</string>
+
+    <!-- Login Fragemnt -->
+    <string name="string_edtxt_hint_id">아이디</string>
+    <string name="string_edtxt_hint_pw">비밀번호</string>
+    <string name="string_edtxt_hint_confirm_pw">비밀번호 확인</string>
+    <string name="string_edtxt_hint_fullname">이름</string>
+    <string name="string_edtxt_hint_gender">전화번호</string>
+    <string name="string_edtxt_hint_location">거주지</string>
+    <string name="string_edtxt_hint_store">업체명</string>
+    <string name="string_login">로그인</string>
+    <string name="string_register">회원가입</string>
+
+    <!-- Settings Fragment -->
+    <string name="string_logout">로그아웃</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_login_success">환영합니다.</string>
+    <string name="toast_login_failed">로그인에 실패했어요.</string>
+    <string name="toast_register_failed">정보를 올바르게 입력해주세요.</string>
+    <string name="toast_register_seller_failed">정확한 상호명을 입력해주세요.</string>
+    <string name="toast_register_failed_include_comma">ID에는 Comma(.) 가 들어갈 수 없어요.</string>
+    <string name="toast_register_failed_not_compare_pw">비밀번호가 일치하지 않아요.</string>
+    <string name="toast_register_success">서울지킴이가 되신걸 환영합니다.</string>
+    <string name="toast_register_success_require_detail_info">상세 정보를 기입해주세요.</string>
+    <string name="toast_register_duplicate_failed">다른 지킴이께서 사용중인 ID에요.</string>
+    <string name="toast_logout_success">로그아웃 되었습니다.</string>
+    <string name="toast_logout_failed">로그아웃에 실패하였습니다.</string>
+    <string name="toast_cannot_buyer">제휴업체 전용 메뉴에요.</string>
+    <string name="toast_cannot_seller">일반회원 전용 메뉴에요.</string>
+    <string name="toast_backkey">한번 더 누르면 종료해요.</string>
+    <string name="toast_require_camera_permission">QR코드 스캔을 위해서 카메라 접근 권한이 필요합니다.</string>
+
+    <!-- Alert Messages -->
+    <string name="alert_logout_title">로그아웃 하시겠어요?</string>
+    <string name="alert_require_gps">GPS 사용 권한이 필요해요.</string>
+    <string name="alert_denied_location">현재 위치를 가져올 수 없어요</string>
+    <string name="alert_wait_location">현재 위치를 업데이트 중이에요</string>
+
+    <!-- Shops Item-->
+    <string name="item_back_title">Stamp 모으기</string>
+
+    <!-- Stamps -->
+    <string name="string_stamp_name_cafe">카페</string>
+    <string name="string_stamp_name_restaurant">식당</string>
+    <string name="string_stamp_name_store">편의점</string>
+    <string name="string_stamp_name_mart">마트</string>
+    <string name="string_stamp_name_public">공공시설</string>
+    <string name="string_stamp_name_etc">기타</string>
+    <string name="string_tip">각각의 스탬프를 누르면 상세내역을 확인할 수 있어요.</string>
+    <string name="string_list_load_failed">아직 정보가 없어요.</string>
+
+    <!-- Store Info-->
+    <string name="string_store_info_guideline">매장 환경 지침</string>
+    <string name="string_1_guideline">위 행동을 실천한 고객에게</string>
+</resources>

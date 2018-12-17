@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common Color-->
+    <color name="color_status_bar">#FF7F7E87</color>
+    <color name="color_app_theme">#FFFFFFFF</color>
+    <color name="color_white">#FFFFFFFF</color>
+    <color name="color_outline">#FFE8E8E8</color>
+    <color name="color_outline_back">#FF43EA94</color>
+    <color name="color_text">#FF4F4F4F</color>
+    <color name="color_text_light">#FFB1B1B1</color>
+    <color name="color_text_highlight">#FF43EA94</color>
+
+    <!-- Toolbar-->
+    <color name="color_toolbar_title">#FF353535</color>
+    <color name="color_toolbar_line">#FFCACACA</color>
+
+    <!-- Shops Item -->
+    <color name="color_shops_name">#FF4F4F4F</color>
+    <color name="color_shops_sub_name">#FFB1B1B1</color>
+    <color name="color_shops_distance">#FFB1B1B1</color>
+</resources>
+
